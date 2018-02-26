@@ -19,4 +19,4 @@ Players take turns choosing a piece which the other player must then place on th
 
 Quarto is distinctive in that there is only one set of common pieces, rather than a set for one player and a different set for the other. It is therefore an impartial game.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Quarto_(board_game)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Quarto_(board_game))
